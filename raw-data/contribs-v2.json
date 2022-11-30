@@ -1,4 +1,4 @@
-[ { "modelName": "client interface example", "contributor": "Seth Tisue", "organization": "CCL", "date": "06/20/2002" }
+[ { "modelName": "client interface example", "contributor": "Seth Tisue", "organization": "CCL", "date": "06/20/2002" } 
 , { "modelName": "AntsOpt", "contributor": "Erich Neuwirth", "organization": "University of Vienna", "date": "06/25/2002" }
 , { "modelName": "Life", "contributor": "Baz Foo", "organization": "XXX", "date": "07/01/2002" }
 , { "modelName": "1D-CA-Rule90", "contributor": "Uri Wilensky", "organization": "CCL", "date": "07/03/2002" }
